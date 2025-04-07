@@ -7,9 +7,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pygame-009900?style=for-the-badge&logo=pygame&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 
 ---
 
-### 🤝 Meio de Contato
+### 🤝 Meios de Contato
 
 - 📬 E-mail: [eduskoroboatei@gmail.com](mailto:eduskoroboatei@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/eduardo-skoroboatei-gomes-596007355](https://linkedin.com/in/eduardo-skoroboatei-gomes-596007355)
