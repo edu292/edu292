@@ -37,8 +37,8 @@
 
 ### 🧠 Tech Stack
 
-- **Linguagens:** Python, C, Java  
-- **Bibliotecas/Frameworks:** Pygame, Selenium, pandas, flask, django
+- **Linguagens:** Python, C++, C#, Java  
+- **Bibliotecas/Frameworks:** Pygame, Selenium, pandas, flask, django, .Net
 - **Ferramentas:** Git, GitHub, Tkinter, VSCode  
 - **Áreas:** Automação, IA, Jogos 2D, Simulações, Web Scraping
 
