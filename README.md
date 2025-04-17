@@ -27,7 +27,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🤖 [**Resolvedor para o Termo**](https://github.com/edu292/termo-resolvedor) | Bot que coleta dados do jogo através do navegador e com base nas dicas dadas encontra a palavra certa e ganha o jogo | Python, Selenium
+| 🤖 [**Resolvedor para o Termo**](https://github.com/edu292/termo-resolvedor) | Bot que coleta dados do jogo através do navegador e com base nas dicas dadas encontra a palavra certa e ganha o jogo | Python, Selenium, WebScrapping
 | 🧠 [**Clone do Termo**](https://github.com/edu292/termo-clone) | Projeto que recria o jogo Termo com Pygame. Integração com algoritmo de processamento de dicas e resolução | Python, Pygame, Algoritmos |
 | 🐦 [**Clone Flappy Bird com Treinamento de Rede Neural**](https://github.com/edu292/flappy-bird-ai) | Clone de Flappy Bird no pygame utilizado para treinar rede neural | Python, Pygame, NEAT |
 | 📥 [**YouTube Video Downloader**](https://github.com/edu292/youtube-downloader) | Ferramenta GUI com integração a API do youtube para download de videos | Python, pytube |
