@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
@@ -37,9 +36,9 @@
 
 ### 🧠 Tech Stack
 
-- **Linguagens:** Python, C++, C#, Java  
+- **Linguagens:** Python, C++, C#, C 
 - **Bibliotecas/Frameworks:** Pygame, Selenium, pandas, flask, django, .Net
-- **Ferramentas:** Git, GitHub, Tkinter, VSCode  
+- **Ferramentas:** Git, GitHub, SQL 
 - **Áreas:** Automação, IA, Jogos 2D, Simulações, Web Scraping
 
 ---
@@ -65,7 +64,7 @@
 ### 🤝 Meios de Contato
 
 - 📬 E-mail: [eduskoroboatei@gmail.com](mailto:eduskoroboatei@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/eduardo-skoroboatei-gomes-596007355](https://linkedin.com/in/eduardo-skoroboatei-gomes-596007355)
+- 💼 LinkedIn: [linkedin.com/in/edu292](https://linkedin.com/in/edu292)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edu292&label=Visualizações%20no%20perfil&color=0E7FCF&style=flat" alt="edu292" />
