@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Eu sou o Eduardo Skoroboatei Gomes 👋</h1>
 
 <p align="center">
-  💻 Estudante de Engenharia de Software | 🧠 Explorador de código e criador de experiências digitais<br>
-  🚀 Python, Automação, Jogos e Inteligência Artificial são meu playground
+  💻 Estudante de Engenharia de Software com foco em **desenvolvimento de soluções impactantes**.<br>
+  Utilizo código para **resolver problemas reais e criar aplicações funcionais**, com experiência em automação, IA e desenvolvimento web, buscando sempre a eficiência do baixo ao alto nível.
 </p>
 
 <p align="center">
@@ -15,29 +15,30 @@
 
 ### 🚀 Sobre mim
 
-🎓 Estudante de Engenharia de Software apaixonado por resolver problemas com código  
-🤖 Foco em automação, jogos inteligentes, simulações físicas e IA com redes neurais  
-🎮 Apaixonado por desenvolver jogos que unem lógica, criatividade e tecnologia  
-🔬 Atualmente explorando C, estrutura de dados, e integração entre jogos e algoritmos
+🎓 Como Engenheiro de Software, meu propósito é **desenvolver soluções tecnológicas que afetem a vida das pessoas**. Acredito no poder do código para transformar ideias em realidade, resolvendo problemas práticos.
+
+🛠️ Minha metodologia de trabalho se fundamenta em uma **compreensão sólida dos princípios de baixo nível**, o que me permite tomar decisões de design mais assertivas, combinada com a **aplicação inteligente de frameworks de alto nível** para construir soluções escaláveis e manuteníveis.
+
+🌱 Sou atraído por áreas como **automação de processos, inteligência artificial e a criação de sistemas interativos**, vendo nelas o potencial de aplicar a engenharia de software para gerar valor e impacto. O desenvolvimento de jogos, para mim, é uma **maneira fascinante de explorar conceitos complexos** e aprimorar habilidades de lógica e arquitetura em um ambiente dinâmico. Meu aprendizado é contínuo, sempre visando aprimorar minhas habilidades e a qualidade dos meus projetos.
 
 ---
 
 ### 💼 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🤖 [**Resolvedor para o Termo**](https://github.com/edu292/termo-resolvedor) | Bot que coleta dados do jogo através de scrapping e filtra banco de palavras até encontrar a palavra certa | Python, Selenium, WebScrapping
-| 🧩 [**Resolvedor de Sudoku com Visão Computacional**](https://github.com/edu292/sudoku-solver-onnx) | Extrai tabuleiros via OpenCV e reconhece dígitos com modelo ONNX para resolução automática | Python, Pygame, OpenCV, ONNX, Numpy, Scipy |
-| 🐦 [**Clone Flappy Bird com Treinamento de Rede Neural**](https://github.com/edu292/flappy-bird-ai) | Clone de Flappy Bird no pygame utilizado para treinar rede neural | Python, Pygame, NEAT |
-| 📥 [**YouTube Video Downloader**](https://github.com/edu292/youtube-downloader) | Ferramenta GUI com integração a API do youtube para download de videos | Python, pytube |
-| 🌍 [**Simulação de Canhão de Newton**](https://github.com/edu292/simulador-canhao-newton) | Simulação visual com gravidade, órbita e física newtoniana aplicadas | C++, Física computacional |
+| Projeto | Descrição | Problema Resolvido | Tecnologias | Aprendizados Chave |
+| :------ | :-------- | :----------------- | :---------- | :------------------ |
+| 🤖 [**Resolvedor para o Termo**](https://github.com/edu292/termo-resolvedor) | Bot que automatiza a descoberta da palavra diária do jogo Termo | Otimizar o processo de acerto do jogo Termo e explorar web scraping para automação de tarefas repetitivas. | Python, Selenium, WebScrapping | Automação de UI, tratamento de dados web, lógica de filtragem complexa. |
+| 🧩 [**Resolvedor de Sudoku com Visão Computacional**](https://github.com/edu292/sudoku-solver-onnx) | Extrai tabuleiros via OpenCV e reconhece dígitos com modelo ONNX para resolução automática | Criar uma solução que digitaliza e resolve sudokus do mundo real, unindo visão computacional e lógica. | Python, Pygame, OpenCV, ONNX, Numpy, Scipy | Processamento de imagem, integração de modelos de IA (ONNX), algoritmos de backtracking. |
+| 🐦 [**Clone Flappy Bird com Treinamento de Rede Neural**](https://github.com/edu292/flappy-bird-ai) | Clone de Flappy Bird no pygame utilizado para treinar rede neural | Entender e aplicar algoritmos de aprendizado por reforço para ensinar uma IA a jogar um game. | Python, Pygame, NEAT | Fundamentos de IA (NEAT), simulação de ambientes para treinamento, otimização de parâmetros. |
+| 📍 [**Excel GeoMapper**](https://github.com/edu292/excel-geomapper) | Aplicativo interativo que transforma planilhas Excel com endereços e datas em mapas de calor geolocalizados mensais e acumulados. | Visualizar dados espaciais e temporais de planilhas Excel de forma interativa, com foco em usabilidade para não-técnicos e persistência incremental. | Streamlit, Folium, SQLite, LocationIQ, JavaScript | **Integração de APIs de mapeamento**, **customização de libs (Folium/JS)**, **persistencia de dados (SQLite)**, tratamento de erros de API. |
+| 🌍 [**Simulação de Canhão de Newton**](https://github.com/edu292/simulador-canhao-newton) | Simulação visual com gravidade, órbita e física newtoniana aplicadas | Visualizar os princípios da física newtoniana, como gravidade e órbitas, através de uma simulação interativa. | C++, Física computacional | Programação de simulações físicas, matemática aplicada (cálculo de forças e vetores), otimização de performance em C++. |
 
 ---
 
 ### 🧠 Tech Stack
 
 - **Linguagens:** Python, C++, C#, C 
-- **Bibliotecas/Frameworks:** Pygame, Selenium, pandas, flask, django, .Net
+- **Bibliotecas/Frameworks:** Pygame, Selenium, pandas, flask, Django, .Net
 - **Ferramentas:** Git, GitHub, SQL 
 - **Áreas:** Automação, IA, Jogos 2D, Simulações, Web Scraping
 
@@ -54,14 +55,17 @@
 
 ### 🌱 Em constante aprendizado
 
-- 🧠 Estrutura de dados com C
-- 🔗 Integração entre lógica, automação e jogos
-- 🧪 Aplicações de IA em projetos
-- 💡 Arquitetura de software e organização de código
+- 🧠 **Estruturas de Dados e Algoritmos em C:** Fortalecendo a base para performance e eficiência.
+- 🔗 **Desenvolvimento Web com Django:** Aprofundando em frameworks robustos para construir aplicações web escaláveis.
+- ☁️ **Plataformas de Deploy (Heroku, Railway):** Aprendendo a colocar projetos no ar e gerenciar infraestrutura em nuvem.
+- 💡 **Aplicações Avançadas de IA:** Integrando modelos mais complexos para resolver problemas do mundo real.
+- 🎮 **Desenvolvimento de Jogos Multiplataforma:** Expandindo as possibilidades de criação e interação.
 
 ---
 
 ### 🤝 Meios de Contato
+
+Gostaria de saber mais sobre meus projetos, explorar como minhas habilidades podem agregar valor à sua equipe, ou mesmo **colaborar e discutir as tecnologias que utilizo?**
 
 - 📬 E-mail: [eduskoroboatei@gmail.com](mailto:eduskoroboatei@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/edu292](https://linkedin.com/in/edu292)
