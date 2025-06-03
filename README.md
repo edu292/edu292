@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Eu sou o Eduardo Skoroboatei Gomes 👋</h1>
 
 <p align="center">
-  💻 Estudante de Engenharia de Software com foco em **desenvolvimento de soluções impactantes**.<br>
-  Utilizo código para **resolver problemas reais e criar aplicações funcionais**, com experiência em automação, IA e desenvolvimento web, buscando sempre a eficiência do baixo ao alto nível.
+  💻 Estudante de Engenharia de Software com foco em <strong>desenvolvimento de soluções impactantes</strong>.<br>
+  Utilizo código para <strong>resolver problemas reais e criar aplicações funcionais</strong>, com experiência em automação, IA e desenvolvimento web, buscando sempre a eficiência do baixo ao alto nível.
 </p>
 
 <p align="center">
