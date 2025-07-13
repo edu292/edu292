@@ -58,8 +58,6 @@
 - 🧠 **Estruturas de Dados e Algoritmos em C:** Fortalecendo a base para performance e eficiência.
 - 🔗 **Desenvolvimento Web com Django:** Aprofundando em frameworks robustos para construir aplicações web escaláveis.
 - ☁️ **Plataformas de Deploy (Heroku, Railway):** Aprendendo a colocar projetos no ar e gerenciar infraestrutura em nuvem.
-- 💡 **Aplicações Avançadas de IA:** Integrando modelos mais complexos para resolver problemas do mundo real.
-- 🎮 **Desenvolvimento de Jogos Multiplataforma:** Expandindo as possibilidades de criação e interação.
 
 ---
 
