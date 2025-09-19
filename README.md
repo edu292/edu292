@@ -39,7 +39,7 @@
 
 - **Linguagens:** Python, C++, C#, C 
 - **Bibliotecas/Frameworks:** Pygame, Selenium, pandas, flask, Django, .Net
-- **Ferramentas:** Git, GitHub, SQL 
+- **Ferramentas:** Git, GitHub, SQL, Docker
 - **Áreas:** Automação, IA, Jogos 2D, Simulações, Web Scraping
 
 ---
