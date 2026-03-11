@@ -2,12 +2,12 @@
 
 <p align="center">
   💻 Estudante de Engenharia de Software com foco em <strong>desenvolvimento de soluções impactantes</strong>.<br>
-  Utilizo código para <strong>resolver problemas reais e criar aplicações funcionais</strong>, com experiência em automação, IA e desenvolvimento web, buscando sempre a eficiência do baixo ao alto nível.
+  Utilizo código para <strong>resolver problemas reais e criar aplicações funcionais</strong>, com experiência em criação de ferramentas, IA e desenvolvimento web, buscando sempre a eficiência do baixo ao alto nível.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
@@ -17,7 +17,7 @@
 
 🎓 Como Engenheiro de Software, meu propósito é **desenvolver soluções tecnológicas que afetem a vida das pessoas**. Acredito no poder do código para transformar ideias em realidade, resolvendo problemas práticos.
 
-🛠️ Minha metodologia de trabalho se fundamenta em uma **compreensão sólida dos princípios de baixo nível**, o que me permite tomar decisões de design mais assertivas, combinada com a **aplicação inteligente de frameworks de alto nível** para construir soluções escaláveis e manuteníveis.
+🛠️ Minha metodologia de trabalho se fundamenta em uma **compreensão sólida dos princípios de baixo nível**, o que me permite tomar decisões mais assertivas, combinada com a **aplicação inteligente de frameworks de alto nível** para construir soluções escaláveis e manuteníveis.
 
 🌱 Sou atraído por áreas como **automação de processos, inteligência artificial e a criação de sistemas interativos**, vendo nelas o potencial de aplicar a engenharia de software para gerar valor e impacto. O desenvolvimento de jogos, para mim, é uma **maneira fascinante de explorar conceitos complexos** e aprimorar habilidades de lógica e arquitetura em um ambiente dinâmico. Meu aprendizado é contínuo, sempre visando aprimorar minhas habilidades e a qualidade dos meus projetos.
 
@@ -37,8 +37,8 @@
 
 ### 🧠 Tech Stack
 
-- **Linguagens:** Python, C++, C#, C 
-- **Bibliotecas/Frameworks:** Pygame, Selenium, pandas, flask, Django, .Net
+- **Linguagens:** Python, Javascript, C, go 
+- **Bibliotecas/Frameworks:** Pygame, Selenium, pandas, flask, Django
 - **Ferramentas:** Git, GitHub, SQL, Docker
 - **Áreas:** Automação, IA, Jogos 2D, Simulações, Web Scraping
 
@@ -47,17 +47,17 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu292&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu292&layout=compact&theme=tokyonight&langs_count=8&hide=cmake,procfile,Dockerfile,html,css,mako,shell"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu292&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu292&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,cmake,procfile,mako"/>
 </p>
 
 ---
 
 ### 🌱 Em constante aprendizado
 
-- 🧠 **Estruturas de Dados e Algoritmos em C:** Fortalecendo a base para performance e eficiência.
+- 🧠 **Servidor HTTP em Go:** A melhor maneira de aprender algo é fazendo você mesmo.
 - 🔗 **Desenvolvimento Web com Django:** Aprofundando em frameworks robustos para construir aplicações web escaláveis.
-- ☁️ **Plataformas de Deploy (Heroku, Railway):** Aprendendo a colocar projetos no ar e gerenciar infraestrutura em nuvem.
+- ☁️ **Configuração e deploy em VPS:** Nada como conectar a sua própria maquina via SSH e ter e controle total e custso previsíveis.
 
 ---
 
