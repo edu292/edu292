@@ -57,7 +57,7 @@
 
 - 🧠 **Servidor HTTP em Go:** A melhor maneira de aprender algo é fazendo você mesmo.
 - 🔗 **Desenvolvimento Web com Django:** Aprofundando em frameworks robustos para construir aplicações web escaláveis.
-- ☁️ **Configuração e deploy em VPS:** Nada como conectar a sua própria maquina via SSH e ter e controle total e custso previsíveis.
+- ☁️ **Configuração e deploy em VPS:** Nada como poder se conectar à sua própria maquina via SSH, ter e controle total dela e manter os custos previsíveis.
 
 ---
 
