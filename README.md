@@ -7,8 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/>
 </p>
 
 ---
