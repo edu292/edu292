@@ -47,8 +47,8 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu292&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu292&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,cmake,procfile,mako,blade"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=edu292&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=edu292&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,cmake,procfile,make,blade" />
 </p>
 
 ---
