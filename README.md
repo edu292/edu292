@@ -48,7 +48,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=edu292&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=edu292&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,cmake,procfile,make,blade" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=edu292&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,cmake,procfile,make,blade,makefile" />
 </p>
 
 ---
